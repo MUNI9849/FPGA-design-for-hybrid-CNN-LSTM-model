@@ -1,3 +1,5 @@
+Cite the code:  [![DOI](https://zenodo.org/badge/861646956.svg)](https://zenodo.org/doi/10.5281/zenodo.13846047)
+
 //  Below code is written in HLS C code
 
 Tool required for it to run is Vitis HLS tool (for simulating the HLS code and making RTL IP)
@@ -12,6 +14,9 @@ Design HLS code for the DL model that you are trying. Do C synthesis in vitis HL
 
 STage3: 
 Open Vivado tool, do block design, do RTL synthesis, implementation, and bit generation. Collect three files .bit file, ,hwh file, .tcl filew and load them to ZYNQ board and create overlay there. COntrol the IP by passing test images and parameters through processor of the zynq.
+
+
+Cite the code    [![DOI](https://zenodo.org/badge/861646956.svg)](https://zenodo.org/doi/10.5281/zenodo.13846047)
 
 
 
